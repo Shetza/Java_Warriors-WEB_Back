@@ -3,6 +3,7 @@
 
 ## Iteration 8 du jeu Java_Warriors
 
+* Help : https://docs.oracle.com/cd/E19798-01/821-1754/gijhs/index.html
 * Open maven file (pom.xml)
 * Run Project > mvn install
 * Ouvrir un navigateur : http://localhost:8080/Donjons-it8/ : Une page s'ouvre avec le message : ``En route !!!``
